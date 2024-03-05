@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895337708989",
+    "project_id": "jhonreact-99a91",
+    "storage_bucket": "jhonreact-99a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895337708989:android:d355d773ce21c6ec8f26d4",
+        "android_client_info": {
+          "package_name": "com.class_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzKEMjIlAZc7hiMwJBPSICUgVxddbMbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
